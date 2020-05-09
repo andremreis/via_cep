@@ -1,0 +1,4 @@
+#Fri May 08 22:24:29 BRT 2020
+base.0=C\:\\Users\\andre\\Desktop\\Flutter_Unifenas\\via_cep\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
